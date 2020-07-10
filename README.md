@@ -1,2 +1,2 @@
-# C-22-Physics-Engine
-We created a physics engine for the objects
+# staticSquare
+A static square made using Matter.js physics engine
